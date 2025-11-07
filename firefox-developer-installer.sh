@@ -32,7 +32,7 @@
 # -----------------------------------------------------------------------------
 
 INSTALLATION_DIRECTORY="$HOME/.var/opt/firefox-developer-edition"
-TEMP_DIRECTORY="$HOME/Downloads/$(date +%s%N)_temp"
+TEMP_DIRECTORY="/tmp/$(date +%s%N)_temp"
 DOWNLOAD_URL="https://download.mozilla.org/?product=firefox-devedition-latest&os=linux64&lang=en-US"
 DESKTOP_FILE="$HOME/.local/share/applications/firefox-developer-edition.desktop"
 
