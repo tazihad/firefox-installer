@@ -1,6 +1,6 @@
 # Firefox Installer Scripts for Linux
 
-Easily install **Firefox Developer Edition, Stable, or Nightly** on Linux with a single command.  
+Easily install **Firefox Stable, Developer Edition, or Nightly** on Linux with a single command.  
 No root privileges required — installs to your home directory and creates a desktop entry automatically.
 
 ---
