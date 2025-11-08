@@ -1,6 +1,6 @@
 #!/bin/bash
 # -----------------------------------------------------------------------------
-# Script Name:    firefox-stable.sh
+# Script Name:    firefox-stable-installer.sh
 # Description:    Installs Firefox stable edition for local user.
 # Author:         @tazihad
 # Website:        https://zihad.com.bd
