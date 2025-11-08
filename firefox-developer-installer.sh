@@ -74,9 +74,9 @@ Name=Open the Profile Manager
 Exec=$INSTALLATION_DIRECTORY/firefox --ProfileManager
 EOL
 
-echo "--> Firefox desktop entry created at $DESKTOP_FILE"
+echo "--> Firefox Developer Edition desktop entry created at $DESKTOP_FILE"
 
-echo "--> Done! Firefox installed at $INSTALLATION_DIRECTORY"
+echo "--> Done! Firefox Developer Edition installed at $INSTALLATION_DIRECTORY"
 
 
 
