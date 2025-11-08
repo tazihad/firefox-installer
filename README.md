@@ -29,7 +29,7 @@ Run the following command in your terminal:
 curl -s https://raw.githubusercontent.com/tazihad/firefox-installer/refs/heads/main/firefox-nightly-installer.sh | bash
 ```
 
-## Install Firefox ESR ![Firefox ESR](https://i.ibb.co.com/0VZChMNx/firefox-esr.png)
+## Install Firefox ESR <img src="https://i.ibb.co.com/0VZChMNx/firefox-esr.png" alt="Firefox ESR" height="40" />
 
 Run the following command in your terminal:
 
