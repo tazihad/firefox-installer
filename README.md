@@ -5,7 +5,7 @@ No root privileges required — installs to your home directory and creates a de
 
 ---
 
-## Install Firefox Stable Edition ![Firefox](https://searchfox.org/firefox-main/source/browser/branding/official/default24.png)
+## Install Firefox Stable Edition ![Firefox](assets/default24.png)
 
 Run the following command in your terminal:
 
@@ -13,7 +13,7 @@ Run the following command in your terminal:
 curl -s https://raw.githubusercontent.com/tazihad/firefox-installer/refs/heads/main/firefox-stable-installer.sh | bash
 ```
 
-## Install Firefox Developer Edition ![Firefox Dev](https://searchfox.org/firefox-main/source/browser/branding/aurora/default24.png)
+## Install Firefox Developer Edition ![Firefox Dev](assets/dev-default24.png)
 
 Run the following command in your terminal:
 
@@ -21,7 +21,7 @@ Run the following command in your terminal:
 curl -s https://raw.githubusercontent.com/tazihad/firefox-installer/refs/heads/main/firefox-developer-installer.sh | bash
 ```
 
-## Install Firefox Nightly Edition ![Firefox Nightly](https://searchfox.org/firefox-main/source/browser/branding/nightly/default24.png)
+## Install Firefox Nightly Edition ![Firefox Nightly](assets/night-default24.png)
 
 Run the following command in your terminal:
 
@@ -29,7 +29,7 @@ Run the following command in your terminal:
 curl -s https://raw.githubusercontent.com/tazihad/firefox-installer/refs/heads/main/firefox-nightly-installer.sh | bash
 ```
 
-## Install Firefox ESR <img src="https://i.ibb.co.com/0VZChMNx/firefox-esr.png" alt="Firefox ESR" height="40" />
+## Install Firefox ESR <img src="assets/firefox-esr.png" height="40" />
 
 Run the following command in your terminal:
 
